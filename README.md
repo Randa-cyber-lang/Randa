@@ -1,0 +1,2 @@
+# Randa
+Gacor
