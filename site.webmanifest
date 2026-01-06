@@ -1,0 +1,27 @@
+{
+    "name": "remove.bg",
+    "short_name": "remove.bg",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png?v=fc0bfce6e1310f1539afec9729716721",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png?v=fc0bfce6e1310f1539afec9729716721",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#f7f9fa",
+    "background_color": "#f7f9fa",
+    "start_url": "https://www.remove.bg",
+    "display": "standalone",
+    "prefer_related_applications": true,
+    "related_applications": [
+        {
+            "platform": "play",
+            "id": "bg.remove.android"
+        }
+    ]
+}
